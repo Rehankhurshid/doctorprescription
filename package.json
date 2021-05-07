@@ -25,7 +25,7 @@
     "react-native-router-flux": "^4.2.0",
     "react-native-svg": "^11.0.1",
     "react-native-vector-icons": "^6.6.0",
-    "underscore": "^1.9.2",
+    "underscore": "^1.12.1",
     "words-to-numbers": "^1.5.1"
   },
   "devDependencies": {
